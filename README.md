@@ -54,6 +54,4 @@ Which departments hosted the most-liked events
 ✅ A clean, well-commented Jupyter Notebook (or Colab link)
 ✅ A mini-report/dashboard with:
 
-Graphs of ratings
-Sentiment analysis summary
-Key recommendations for event organizers
+
